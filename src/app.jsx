@@ -2,6 +2,8 @@ import React from 'react';
 import { renderRoutes } from 'react-router-config';
 import TodoFooter from './footer';
 import utils from './utils';
+import './css/index.css';
+import './css/base.css';
 
 const ENTER_KEY = 13;
 
